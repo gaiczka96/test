@@ -1,2 +1,2 @@
 # test
-test repoz public
+test repoz publiczne 123
